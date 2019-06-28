@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>2260359889</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\STM32Cube_FW_F7_V1.15.0\Drivers\CMSIS\Device\ST\STM32F7xx\Source\Templates\iar\startup_stm32f746xx.s</file>
+            <file>$PROJ_DIR$\Debug\Obj\stm32f7xx_it.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\stm32f7xx_it.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_stm32f7xx.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_stm32f7xx.o</file>
+            <file>$PROJ_DIR$\system_stm32f7xx.c</file>
+            <file>$PROJ_DIR$\stm32f746xx.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_stm32f746xx.o</file>
+            <file>$PROJ_DIR$\..\STM32Cube_FW_F7_V1.15.0\Drivers\CMSIS\Include\cmsis_compiler.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$PROJ_DIR$\..\STM32Cube_FW_F7_V1.15.0\Drivers\CMSIS\Include\cmsis_version.h</file>
+            <file>$PROJ_DIR$\..\STM32Cube_FW_F7_V1.15.0\Drivers\CMSIS\Include\core_cm7.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$PROJ_DIR$\..\STM32Cube_FW_F7_V1.15.0\Drivers\CMSIS\Include\cmsis_iccarm.h</file>
+            <file>$PROJ_DIR$\..\STM32Cube_FW_F7_V1.15.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\system_stm32f7xx.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\iccarm_builtin.h</file>
+            <file>$PROJ_DIR$\..\STM32Cube_FW_F7_V1.15.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\stm32f746xx.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\..\STM32Cube_FW_F7_V1.15.0\Drivers\CMSIS\Include\mpu_armv7.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\stm32f7xx_it.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+            <file>$PROJ_DIR$\stm32f746xG.icf</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_stm32f7xx.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\List\clean.map</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tls.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+            <file>$PROJ_DIR$\Debug\Exe\clean.out</file>
+            <file>$PROJ_DIR$\Debug\Obj\clean.pbd</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$PROJ_DIR$\..\STM32Cube_FW_F7_V1.15.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\stm32f7xx.h</file>
+            <file>$PROJ_DIR$\stm32f7xx_it.c</file>
+            <file>$PROJ_DIR$\stm32f7xx_it.h</file>
+            <file>$PROJ_DIR$\main.c</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\..\STM32Cube_FW_F7_V1.15.0\Drivers\CMSIS\Device\ST\STM32F7xx\Source\Templates\iar\startup_stm32f746xx.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 7</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\system_stm32f7xx.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 4</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 28</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 3</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 35 19 14 15 9 10 20 12 11 13 8 16 18 21 17</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 15 19 10 14 16 17 13 8 21 20 35 9 12 11 18</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 32 29</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\clean.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 29</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 25 34 7 2 4 26 23 30 24</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\stm32f7xx_it.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 22</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 1</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 37</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 37</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 34</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 27</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 31</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 35 19 14 15 9 10 20 12 11 13 8 16 18 21 17</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 14 10 19 15 16 17 13 8 21 20 35 9 12 11 18</file>
+                </tool>
+            </inputs>
+        </file>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
